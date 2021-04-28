@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.pft.addressbook.UntitledTestCase" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-28T04:44:53" hostname="USER-SPFMQCAIQP" time="1.31">
+  <properties/>
+  <testcase name="testUntitledTestCase" classname="ru.stqa.pft.addressbook.UntitledTestCase" time="1.31"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 31282
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+апр. 28, 2021 10:44:53 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

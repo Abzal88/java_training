@@ -4,7 +4,7 @@ public class Point {
 
   public static void main(String[] args) {
 
-    Pointdata P = new Pointdata(2, 3, 1, 4);
+    Pointdata P = new Pointdata(3, 2, 6, 4);
     System.out.println("расстояние точек =" + distance(P));
    }
 
